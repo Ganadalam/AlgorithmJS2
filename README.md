@@ -1,2 +1,24 @@
 # AlgorithmJS2
-This is an auto push repository for Baekjoon Online Judge created with [BaekjoonHub](https://github.com/BaekjoonHub/BaekjoonHub).
+
+
+ 🏆 Programmers High Score Kit
+
+프로그래머스 코딩 테스트 대비 고득점 키트 문제를 학습, 정리 기록.  
+주요 목표: 문제 유형별 접근 방식, 코드 구조, 최적화 전략을 명확히 기록.
+
+
+🔹 문제 유형
+- 자료구조: 스택, 큐, 힙
+- 탐색/그래프: BFS, DFS, 최단 경로
+- DP(동적 계획법): 부분수열, 배낭 문제, DP 테이블 활용
+- 완전탐색/구현: 문자열 처리, 시뮬레이션, 수학적 접근
+
+
+🔹 학습 포인트
+- JavaScript로 자료구조, 알고리즘구현 능력 강화
+- 문제 접근 방식과 최적화 전략 문서화
+
+🔹 지향점
+- 반복되는 유틸 함수(`./utils`) 분리로 코드 재사용성 확보
+- TypeScript 변환 가능 → 타입 안정성 경험
+
