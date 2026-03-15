@@ -1,13 +1,12 @@
 function solution(s){
-    let count = 0;
-    
+    let count =0;
     for(const ch of s){
-        if(ch  === '('){ 
-        count++;
-        } else{
+        if(ch === '(') {
+            count++;
+        } else {
             count--;
-            if( count <0) return false
+            if(count < 0) return false
         }
     }
-    return count === 0
+    return count === 0;
 }
